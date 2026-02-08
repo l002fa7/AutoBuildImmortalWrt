@@ -47,7 +47,7 @@ PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-PACKAGES="$PACKAGES luci-app-openclash"
+#PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
